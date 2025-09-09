@@ -1,0 +1,6 @@
+(base) mattsmith@Mac ~ % /opt/anaconda3/bin/python "/Users/mattsmith/Documents/Data Engineering Bootcamp/pipeline.py"
+Successfully loaded data from /Users/mattsmith/Documents/Data Engineering Bootcamp/third_party_sales_1.csv
+Here are the most popular tickets in the past month:
+- Washington Spirits vs Sky Blue FC
+- Christmas Spectacular
+- Carlisle Ford Nationals
