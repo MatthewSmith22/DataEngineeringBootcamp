@@ -1,0 +1,6 @@
+AAPL average close: 258.32133515267265
+TSLA average close: 435.41117086140844
+
+
+AAPL average close: 259.6932658660106 
+TSLA average close: 436.84875339605867
