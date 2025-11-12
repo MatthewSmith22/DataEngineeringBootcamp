@@ -15,14 +15,6 @@ This is a standalone command-line script that monitors your marketvol DAG by:
 - Airflow with the marketvol DAG already running
 - Access to `~/airflow/logs/marketvol/`
 
-## Installation
-
-```bash
-git clone <your-repo-url>
-cd airflow-log-analyzer
-chmod +x log_analyzer.py
-```
-
 ## Usage
 
 ```bash
@@ -34,7 +26,7 @@ python3 log_analyzer.py ~/airflow/logs/marketvol
 python3 log_analyzer.py ~/airflow/logs/marketvol > execution_log.txt
 ```
 
-## Expected Output
+## Example Output
 
 ```
 Total number of errors: 6
@@ -112,12 +104,3 @@ Before running the analyzer:
 └── execution_log.txt     # Output (generated after running)
 ```
 
-## Submission
-
-1. Push code to GitHub
-2. Include this README
-3. Attach `execution_log.txt` with the command output
-
-## Author
-
-Created as part of the Airflow Mini Project - Log Analyzer
